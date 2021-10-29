@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T11:18:12.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="avAvB99fEsp1VlwNBLNv" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T11:20:24.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="-Sfd2zetNFcdts-dbaA5" version="15.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="914" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="kapqsO1IGRCeIKejU_jP-30" value="Vælger &quot;Dimensioner by customer&quot;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="kapqsO1IGRCeIKejU_jP-0">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kapqsO1IGRCeIKejU_jP-42" value="Gem rapporten og vælg navn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kapqsO1IGRCeIKejU_jP-0">
+          <mxGeometry x="40" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kapqsO1IGRCeIKejU_jP-2" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" width="200" height="1120" as="geometry" />
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="kapqsO1IGRCeIKejU_jP-34" value="Window kommer frem med &quot;Filter options&quot;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="kapqsO1IGRCeIKejU_jP-5">
           <mxGeometry x="20" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kapqsO1IGRCeIKejU_jP-45" value="Gemmer rapporten med ID nummer og navn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kapqsO1IGRCeIKejU_jP-5">
+          <mxGeometry x="15" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kapqsO1IGRCeIKejU_jP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kapqsO1IGRCeIKejU_jP-9" target="kapqsO1IGRCeIKejU_jP-10">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +107,23 @@
             <mxPoint x="150" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="90" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kapqsO1IGRCeIKejU_jP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kapqsO1IGRCeIKejU_jP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="600" />
+              <mxPoint x="160" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kapqsO1IGRCeIKejU_jP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kapqsO1IGRCeIKejU_jP-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="630" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="275" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
